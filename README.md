@@ -1,0 +1,1 @@
+Kafka is a distributed streaming system used for event stream processing, real-time data integration, and streaming data pipelines.
